@@ -1,0 +1,391 @@
+{
+    "ads": {
+        
+             "comment": [
+            "Amazing Game I really love it Only Up: Parkour 3D 😍","woow this is the best 👍", "ohh i really like this game 👏", "thanks for this game i like it"
+        ],   
+        
+            "rate_comment": false,
+            
+            "update_app" : false,
+            "activate_ads" : false,
+            "activate_banner" : "on",
+            "activate_inter" : "on",
+            
+            "network" : "is",
+
+            "one_signal" : "",
+            
+            "unity_game_id": "",
+            
+            "admob_ban": "",
+            "admob_native" : "",
+            "admob_int": "",
+            "admob_rewarded": "",
+
+            "yandex_ban" : "",
+            "yandex_native" : "",
+            "yandex_int" : "",
+            "yandex_rewarded" : "",
+
+            "max_ban": "",
+            "max_native": "",
+            "max_int": "",
+
+            "fan_ban": "",
+            "fan_native": "",
+            "fan_int": "",
+            "fan_rewarded": "",
+
+            "iron_key": "1cf41b48d",
+            "iron_ban" : "DefaultBanner",
+            "iron_int" : "DefaultInterstitial",
+            "iron_rewarded" : "DefaultRewardedVideo",
+
+            "ad_image" : "",
+            "ad_link" : "",
+
+            "ad_score_amount" : 1,
+            "ad_game_minutes" : 1,
+            "ad_int_interval" : 4,
+            "score_rating_reward" : 3,
+
+            "orientation": "landscape",
+
+            "game_name": "",
+            "game_cover": "",
+            "game_gif": "",
+            "game_link": "",
+
+            "update_app_activate": "false",
+            "update_app_link": "",
+            
+            "show_notfication":false,
+            "Counter": "360000",
+            "notification_title": "check our new game",
+            "notification_text": "woow PARKOUR game is here try it now",
+            "showrate" : false,
+            
+            "Slide_count" : "2",
+            
+            "active_slider" : false ;
+            
+             "first_Slide_firstimage" : "https://raw.githubusercontent.com/Bennn03/version2/main/couv.png",
+            "first_Slide_secondtimage" : "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif" ,
+             "first_Slide_threeimage" : "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif",
+            
+               "second_Slide_firstimage" : "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif",
+            "second_Slide_secondtimage" : "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif" ,
+             "second_Slide_threeimage" : "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif",
+            
+            "three_Slide_firstimage" : "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif",
+            "three_Slide_secondtimage" : "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif" ,
+            "three_Slide_threeimage" : "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif"
+
+        
+            
+        },
+
+
+    "more" : [
+        {
+            "name" : "Yes or No?! - Food Pranks",
+            "ico" : "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },{
+            "name" : "Clash Squad",
+            "ico" : "https://img.gamedistribution.com/e53b05dab94c40fe846248ad3b649403-512x512.jpeg",
+            "link" : "https://html5.gamedistribution.com/e53b05dab94c40fe846248ad3b649403/?gd_sdk_referrer_url=https%3A%2F%2Ffr.y8.com%2Fgames%2Frun_run_3d_challenge&key=y8&value=default",
+            "cat" : "Overall",
+            "orientation" : "1"
+        },{
+            "name" : "Tall Man Run",
+            "ico" : "https://play-lh.googleusercontent.com/NO7rNNKCJa__oDge9GNePHDEq3MKauNc9AaUe3Awx3qsswE_zOVTMgDgccouH9Wg_g=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
+        }
+
+    ],
+
+    "slider" : [
+        {
+            "image" : "https://cdna.artstation.com/p/assets/images/images/030/699/992/large/tanya-grineva-194004-3-147-142240-dragons-wa9.jpg?1601391035",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },
+        {
+            "image" : "https://papyrus.greenville.edu/wp-content/uploads/2017/02/rsz_clash-royale.jpg",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },
+        {
+            "image" : "https://mytona.com/images/imperavi/article/5e05f667acdc3.jpg",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },
+        {
+            "image" : "https://i.ytimg.com/vi/5zZmpYzvAYA/maxresdefault.jpg",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        }
+    ],
+
+    "menu" : [
+        {
+            "active" : "false",
+            "active_reward" : "false",
+            "name" : "Guide",
+            "ico" : "https://9asso.github.io/published/imgs/btmore.png",
+            "bg" : "#3F51B5"
+        },
+        {
+            "active" : "false",
+            "active_reward" : "false",
+            "name" : "Food Delivery",
+            "ico" : "https://storage.pixteller.com/designs/designs-videos/2090558-5fe0b83524270/thumb.gif",
+            "bg" : "https://study.com/learn/lesson/product-advertisement-overview-examples.html"
+        },
+        {
+            "active" : "false",
+            "active_reward" : "false",
+            "name" : "Spinner",
+            "ico" : "https://9asso.github.io/published/imgs/btspin.png",
+            "bg" : "#ffffff"
+        },
+        {
+            "active" : "false",
+            "active_reward" : "false",
+            "name" : "Quiz",
+            "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
+            "bg" : "#ffffff"
+        },
+        {
+            "active" : "false",
+            "active_reward" : "false",
+            "name" : "Puzzle",
+            "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
+            "bg" : "#ffffff"
+        },
+        {
+            "active" : "false",
+            "active_reward" : "false",
+            "name" : "Questions",
+            "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
+            "bg" : "#ffffff"
+        },
+        {
+            "active" : "false",
+            "active_reward" : "false",
+            "name" : "Wallpapers",
+            "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
+            "bg" : "#ffffff"
+        },
+        {
+            "active" : "false",
+            "active_reward" : "false",
+            "name" : "Scratch",
+            "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
+            "bg" : "#ffffff"
+        },
+        {
+            "active" : "true",
+            "active_reward" : "false",
+            "name" : "Games",
+            "ico" : "https://9asso.github.io/published/imgs/btgames.png",
+            "bg" : "#673AB7"
+        },
+        {
+            "active" : "false",
+            "active_reward" : "false",
+            "name" : "More",
+            "ico" : "https://9asso.github.io/published/imgs/btmore.png",
+            "bg" : "#3F51B5"
+        }
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/gif/3gif.gif"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/image/b8.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/gif/2gif.gif"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/image/b7.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/gif/1gif.gif"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/image/b6.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/image/b5.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/image/b4.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/image/b3.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/image/b2.png"
+        }
+    ],
+    
+   "games" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://github.com/KLsidjK/game-snakes/blob/main/1.jpg",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
+            "cat" : "Overall",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://github.com/KLsidjK/game-snakes/blob/main/2.jpg",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
+            "cat" : "Strategies",
+            "orientation" : "0"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://github.com/KLsidjK/game-snakes/blob/main/3.jpg",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
+            "cat" : "Soccer",
+            "orientation" : "1"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://github.com/KLsidjK/game-snakes/blob/main/4.jpg",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://github.com/KLsidjK/game-snakes/blob/main/5.jpg",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
+            "cat" : "Puzzles",
+            "orientation" : "0"
+        }
+
+    ],
+    
+    "scratch" : [
+        { "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/scratch/gif1.gif" },
+        { "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/scratch/gif7.gif" },
+        { "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/scratch/gif6.gif" },
+        { "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/scratch/gif5.gif" },
+        { "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/scratch/gif4.gif" }
+    ],
+
+    "quizquestions" : [
+        {
+            "questions" :
+            [
+                { "question" : "Who is the DJ character?" },
+                { "question" : "standard characters with no special abilities. Which are the two characters?" },
+                { "question" : "Who is the first character?" },
+                { "question" : "What is the 2nd card?" },
+                { "question" : "How many animals are there?" },
+                { "question" : "Which of the following is the correct Game genre?" },
+                { "question" : "The game play is fast-paced with each round lasting:" },
+                { "question" : "Who is the DJ character?" },
+                { "question" : "Game was published by Garena for which of the following platform(s)?" }
+            ],
+            "answers" :
+            [
+                { "answer" : "ALOK" },
+                { "answer" : "Adam and Eve" },
+                { "answer" : "Adam" },
+                { "answer" : "Portugal" },
+                { "answer" : "More" },
+                { "answer" : "Battle Royale" },
+                { "answer" : "20 minutes" },
+                { "answer" : "Adam and Eve" },
+                { "answer" : "Android and iOS" }
+            ],
+            "options" :
+            [
+                { "option" : "ALOK" }, { "option" : "Hayato" }, { "option" : "Maxime" }, { "option" : "Adam" },
+                { "option" : "Adam and Eve" }, { "option" : "Misha and Maxim" }, { "option" : "Kely and Nikita" }, { "option" : "Adam" },
+                { "option" : "Rafael" }, { "option" : "The monkey king" }, { "option" : "Maxime" }, { "option" : "Adam" },
+                { "option" : "Portugal" }, { "option" : "Snowball" }, { "option" : "zombie invasion" }, { "option" : "Classic" },
+                { "option" : "5" }, { "option" : "2" }, { "option" : "7" }, { "option" : "More" },
+                { "option" : "Adventure" }, { "option" : "Role-Playing" }, { "option" : "Battle Royale" }, { "option" : "Simulation" },
+                { "option" : "10 minutes" }, { "option" : "15 minutes" }, { "option" : "20 minutes" }, { "option" : "25 minutes" },
+                { "option" : "Misha and Maxim" }, { "option" : "Adam and Eve" }, { "option" : "Kely and Nikita" }, { "option" : "Hayato and Laura" },
+                { "option" : "Game Boy" }, { "option" : "Android and iOS" }, { "option" : "Linux and Nintendo" }, { "option" : "Sega Mark III" }
+            ]
+        }
+    ],
+
+    "quizimages" : [
+        {
+            "images" :
+            [
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/1.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/2.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/3.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/4.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/image/2.jpg" }
+            ],
+            "answers" :
+            [
+                { "answer" : "Destiny Guardian" },
+                { "answer" : "Predatory Cobra" },
+                { "answer" : "Destiny Effect" },
+                { "answer" : "Cobra Effect" },
+                { "answer" : "SPAS12" }
+            ],
+            "options" :
+            [
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "None" },
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "Predatory Cobra" },
+                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Destiny Effect" }, { "option" : "UMP Effect" },
+                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Cobra Effect" }, { "option" : "UMP Effect" },
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "SPAS12" }
+            ]
+        }
+    ],
+    
+    "chaptera" : [
+        {
+            "title" : "Recover EP when owner stand still.",
+            "img" : "https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20236/5add0ec087395e9b3c344fdb8bf7d11a.png"
+        }
+    ],
+
+    "chapterb" : [
+       {
+            "title" : "Loyality is virtue.",
+            "img" : "https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20229/e72cf970e6184e4d3841258df9b29ae1.png"
+        }
+    ],
+
+    "chapterc" : [
+       {
+            "title" : "I'm not just an owl, I am a Hoot!",
+            "img" : "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/6dd5ad5c2ad552ceabbe786abb0fc26a.png"
+        }
+    ],
+
+    "chapterd" : [
+      {
+            "title" : "Dare to challange me for a Swim?",
+            "img" : "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/2d0fc806e92bee780bdea0fcc4bfbe96.png"
+        }
+    ],
+
+    "chaptere" : [
+        {
+            "title" : "I heard that you think I'm adorable",
+            "img" : "https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/691078afd4a0ef4b6cf01fd25dc30c5c.png"
+        }
+    ]
+}
