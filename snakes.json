@@ -183,7 +183,7 @@
             "bg" : "#ffffff"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Games",
             "ico" : "https://9asso.github.io/published/imgs/btgames.png",
@@ -244,31 +244,31 @@
    "games" : [
         {
             "name" : "Snake.io: Fun Snake .io Games",
-            "ico" : "https://github.com/KLsidjK/game-snakes/blob/main/1.jpg",
+            "ico" : "https://raw.githubusercontent.com/KLsidjK/game-snakes/main/1.jpg",
             "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
             "cat" : "Overall",
             "orientation" : "1"
         },{
             "name" : "Cat Condo",
-            "ico" : "https://github.com/KLsidjK/game-snakes/blob/main/2.jpg",
+            "ico" : "https://raw.githubusercontent.com/KLsidjK/game-snakes/main/2.jpg",
             "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
             "cat" : "Strategies",
             "orientation" : "0"
         },{
             "name" : "Power Up: Superhero Challenge",
-            "ico" : "https://github.com/KLsidjK/game-snakes/blob/main/3.jpg",
+            "ico" : "https://raw.githubusercontent.com/KLsidjK/game-snakes/main/3.jpg",
             "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
             "cat" : "Soccer",
             "orientation" : "1"
         },{
             "name" : "Stacky Bird: Fun Egg Dash Game",
-            "ico" : "https://github.com/KLsidjK/game-snakes/blob/main/4.jpg",
+            "ico" : "https://raw.githubusercontent.com/KLsidjK/game-snakes/main/4.jpg",
             "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
             "cat" : "Arcade",
             "orientation" : "1"
         },{
             "name" : "Cat Escape",
-            "ico" : "https://github.com/KLsidjK/game-snakes/blob/main/5.jpg",
+            "ico" : "https://raw.githubusercontent.com/KLsidjK/game-snakes/main/5.jpg",
             "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
             "cat" : "Puzzles",
             "orientation" : "0"
